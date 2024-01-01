@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blogpreviewcard-GR1yfjygK3](https://www.frontendmentor.io/solutions/blogpreviewcard-GR1yfjygK3)
 - Live Site URL: [https://arjuno-008.github.io/blog-preview-card-main-Frontend-Mentor/](https://arjuno-008.github.io/blog-preview-card-main-Frontend-Mentor/)
 
 ## My process
